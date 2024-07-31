@@ -136,6 +136,8 @@ main {
 
 .left {
     max-width: calc(100% - 507px);
+    padding-left: 4%;
+    padding-top: 4%;
     display: inline-block;
 }
 
