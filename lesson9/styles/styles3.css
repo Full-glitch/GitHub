@@ -258,6 +258,14 @@ main {
     }
 }
 
+.block4:hover{
+    border-top: 1px solid rgba(70, 163, 88, 1);
+}
+
 .block5:hover{
+    border-top: 1px solid rgba(70, 163, 88, 1);
+}
+
+.block6:hover{
     border-top: 1px solid rgba(70, 163, 88, 1);
 }
